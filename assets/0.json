@@ -1,0 +1,19 @@
+{
+    "name": "Car #0",
+    "symbol": "CARZ",
+    "image": "0.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "5E8nrnDJytY8a3H8UAtM1MtqAEkjBESnX8esTTubS97r",
+                "share": 100
+            }
+        ]
+    }
+}
